@@ -1,0 +1,40 @@
+# JavaScript Notes Index
+
+## Hi, this is an index and contains all the topics you will be seeing in my repo.
+
+Source video: [YouTube](https://youtu.be/lfmg-EJ8gm4?si=uNb4SF-yAYAj3m5x).
+More resources: [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+1. [Accept User Input](https://github.com/wonticode/JavaScript-Note/blob/main/accept_user_input.markdown)
+2. [Checked Property](https://github.com/wonticode/JavaScript-Note/blob/main/checked_property.markdown)
+3. [Ternary Operator](https://github.com/wonticode/JavaScript-Note/blob/main/ternary_operator.markdown)
+4. [Switches](https://github.com/wonticode/JavaScript-Note/blob/main/switches.markdown)
+5. [String Methods](https://github.com/wonticode/JavaScript-Note/blob/main/string_methods.markdown)
+6. [String Slicing](https://github.com/wonticode/JavaScript-Note/blob/main/string_slicing.markdown)
+7. [Method Chaining](https://github.com/wonticode/JavaScript-Note/blob/main/method_chaining.markdown)
+8. [While Loops](https://github.com/wonticode/JavaScript-Note/blob/main/while_loops.markdown)
+9. [For Loops](https://github.com/wonticode/JavaScript-Note/blob/main/for_loops.markdown)
+10. [Functions](https://github.com/wonticode/JavaScript-Note/blob/main/functions.markdown)
+11. [Variable Scopes](https://github.com/wonticode/JavaScript-Note/blob/main/variable_scopes.markdown)
+12. [Arrays](https://github.com/wonticode/JavaScript-Note/blob/main/arrays.markdown)
+13. [Spread Operator](https://github.com/wonticode/JavaScript-Note/blob/main/spread_operator.markdown)
+14. [Rest Parameters](https://github.com/wonticode/JavaScript-Note/blob/main/rest_parameters.markdown)
+15. [Callbacks](https://github.com/wonticode/JavaScript-Note/blob/main/callbacks.markdown)
+16. [forEach()](https://github.com/wonticode/JavaScript-Note/blob/main/forEach.markdown)
+17. [map()](https://github.com/wonticode/JavaScript-Note/blob/main/map.markdown)
+18. [filter()](https://github.com/wonticode/JavaScript-Note/blob/main/filter.markdown)
+19. [reduce()](https://github.com/wonticode/JavaScript-Note/blob/main/reduce.markdown)
+20. [Function Expressions](https://github.com/wonticode/JavaScript-Note/blob/main/function_expressions.markdown)
+21. [this Keyword](https://github.com/wonticode/JavaScript-Note/blob/main/this_keyword.markdown)
+22. [Constructors](https://github.com/wonticode/JavaScript-Note/blob/main/constructors.markdown)
+23. [Classes](https://github.com/wonticode/JavaScript-Note/blob/main/classes.markdown)
+24. [Static Keyword](https://github.com/wonticode/JavaScript-Note/blob/main/static_keyword.markdown)
+25. [Inheritance](https://github.com/wonticode/JavaScript-Note/blob/main/inheritance.markdown)
+26. [Super Keyword](https://github.com/wonticode/JavaScript-Note/blob/main/super_keyword.markdown)
+27. [Getters and Setters](https://github.com/wonticode/JavaScript-Note/blob/main/getters_setters.markdown)
+28. [Deconstructing](https://github.com/wonticode/JavaScript-Note/blob/main/deconstructing.markdown)
+29. [Nested Objects](https://github.com/wonticode/JavaScript-Note/blob/main/nested_objects.markdown)
+30. [Arrays of Objects](https://github.com/wonticode/JavaScript-Note/blob/main/arrays_of_objects.markdown)
+31. [Sorting](https://github.com/wonticode/JavaScript-Note/blob/main/sorting.markdown)
+32. [Shuffling an Array](https://github.com/wonticode/JavaScript-Note/blob/main/shuffling_array.markdown)
+33. [Dates](https://github.com/wonticode/JavaScript-Note/blob/main/dates.markdown)
